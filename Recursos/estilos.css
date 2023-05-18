@@ -1,0 +1,90 @@
+body {
+     color: #000000;
+     background-color: #ffffff; 
+     }
+
+P   {
+    font-family: Arial;
+    color: #1CC158;
+    font-size: 23px;
+    text-align: center; 
+    }
+
+#contenedor{
+      
+         width: 100%;
+         height: 100%;
+         border: #000000 4px solid;
+    }
+
+.cabezera{
+        
+        background-color: #045FB4;
+        width: 25%;
+        border: #000000 3px solid;
+    }
+
+h1 { 
+	font-family: Arial; 
+	font-size: 53px; 
+	color: #000000; 
+        text-align: center; 
+    }
+
+.encabezado{
+ 
+        background-color: #F7D358;
+        width: 74.4%;
+        height: 14%;
+        border: #000000 3px solid;
+        position: relative; 
+        left: 477px;
+        bottom: 130px;
+    }
+
+.menu{
+        
+        background-color: #F79F81;
+        width: 99.7%;
+        border: #000000 3px solid;
+        position: relative;
+        bottom: 131px;
+
+    }
+
+.contenido{
+
+        background-color: #ffffff;
+        height: 70%;
+        border: #000000 3px solid;
+        position: relative;
+        bottom: 131px;
+    }
+
+h2 { 
+	font-family: Arial; 
+	font-size: 30px; 
+	color: #000000; 
+        text-align: center; 
+    }
+
+.pie{
+
+        background-color: #F7D358;
+        border: #000000 3px solid;
+        position: relative;
+        bottom: 131px;
+    }
+.table{
+        font-family: Arial; 
+	font-size: 30px; 
+	color: #000000; 
+        
+}
+
+.teble{
+        font-family: Arial; 
+	font-size: 68px; 
+	color: #045FB4; 
+        
+}
